@@ -1,11 +1,6 @@
-## My Project
+## Satellite Imagery Characterization using Amazon Bedrock Generative AI models to address Climate Change
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This Python application allows you to characterize satellite imagery using the Anthropic Claude model on Amazon Bedrock Runtime.
 
 ## Security
 
