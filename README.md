@@ -4,7 +4,8 @@ Amazon Bedrock is a fully managed service that provides access to FMs from third
 ## Steps to run the Satellite Imagery Characterization application
 1. Set up your Python development environment
 2. Install streamlit :  https://docs.streamlit.io/get-started/installation
-3. Run the bedrock python application with ```streamlit run Satellite_Imagery_Characterization_assistant.py``` command
+3. Clone this Github repo 
+4. Run the bedrock python application with ```streamlit run Satellite_Imagery_Characterization_assistant.py``` command
 
 ## Security
 
