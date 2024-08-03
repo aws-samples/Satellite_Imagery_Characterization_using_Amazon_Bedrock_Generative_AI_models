@@ -12,7 +12,7 @@ Amazon Bedrock is a fully managed service that provides access to FMs from third
 
 Image Reference: https://www.nhc.noaa.gov/satellite.php
 
-6. Here is the output from the Satellite_Imagery_Characterization_assistant app:
+6. Here is the sample output from the Satellite_Imagery_Characterization_assistant app:
 ![Screenshot 2024-08-03 at 3 00 17 PM](https://github.com/user-attachments/assets/a433baff-5d1c-4385-8ee5-f7a51f83e4fb)
 
 ## Security
